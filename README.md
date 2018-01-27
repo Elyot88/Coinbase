@@ -4,7 +4,7 @@ Coinbase .NET/C# Library
 
 Project Description
 -------------------
-A .NET implementation for the [Coinbase API](https://developers.coinbase.com/api/v2). This library uses API version 2.
+A .NET implementation for the [Exchange API](https://developers.coinbase.com/api/v2). This library uses API version 2.
 
 #### Supported Platforms
 * **.NET Standard 2.0** or later
